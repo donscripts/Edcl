@@ -1,9 +1,29 @@
-# Edcl ( Editor de arquivos por CLI )
+# Meu Projeto
 
-## Intuito:
-1. Manipulação de arquivos;
-2. Alterar arquivos;
-3. Salvar alterações
+## Descrição
 
-**O arquivo Documentacao.txt serve para instrui-lo sobre os atalhos**
-<p style="color: red;">Texto em vermelho</p>
+<p>Este projeto é uma demonstração de como usar <strong>HTML</strong> em um arquivo <strong>Markdown</strong>.</p>
+
+## Lista de Recursos
+
+<ul>
+  <li><a href="https://github.com" target="_blank">GitHub</a></li>
+  <li><a href="https://www.markdownguide.org/" target="_blank">Guia de Markdown</a></li>
+</ul>
+
+## Tabela de Dados
+
+<table>
+  <tr>
+    <th>Nome</th>
+    <th>Idade</th>
+  </tr>
+  <tr>
+    <td>Alice</td>
+    <td>30</td>
+  </tr>
+  <tr>
+    <td>Bob</td>
+    <td>25</td>
+  </tr>
+</table>

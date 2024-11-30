@@ -34,3 +34,5 @@ aberto em uma nova janela.
     <td>Fechar a janela, não salva as alterações feitas</td>
   </tr>
 </table>
+
+Consulte **Documentacao.txt** para lembras os atalhos e a função do código.

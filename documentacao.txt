@@ -4,3 +4,8 @@ comandos do input:
 'wq' para salvar e fechar a janela
 'w' para salvar
 'i' para escrever
+
+O código edcl.py serve para modificar arquivos;
+Suas funções são:
+  Alterar arquivos;
+  Salvar alterações feitas.

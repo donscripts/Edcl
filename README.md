@@ -1,29 +1,36 @@
-# Meu Projeto
+# Edcli ( Editor de arquivos por CLI )
 
 ## Descrição
+Este código, serve para que, pelo prompt de comandos de sua preferência, você digite **edcl** + o nome do arquivo, para que o conteudo do arquivo seja
+aberto em uma nova janela.
 
-<p>Este projeto é uma demonstração de como usar <strong>HTML</strong> em um arquivo <strong>Markdown</strong>.</p>
-
-## Lista de Recursos
-
+## Suas funções:
 <ul>
-  <li><a href="https://github.com" target="_blank">GitHub</a></li>
-  <li><a href="https://www.markdownguide.org/" target="_blank">Guia de Markdown</a></li>
+  <li><p>Alterar um arquivo</p></li>
+  <li><p>Salvar a alteração feita</p></li>
 </ul>
 
-## Tabela de Dados
+## Atalhos
 
 <table>
   <tr>
-    <th>Nome</th>
-    <th>Idade</th>
+    <th>Letra</th>
+    <th>Função</th>
   </tr>
   <tr>
-    <td>Alice</td>
-    <td>30</td>
+    <td>i</td>
+    <td>Escrita</td>
   </tr>
   <tr>
-    <td>Bob</td>
-    <td>25</td>
+    <td>w</td>
+    <td>Salvar alterações</td>
+  </tr>
+  <tr>
+    <td>wq</td>
+    <td>Salvar alterações e fechar a janela</td>
+  </tr>
+  <tr>
+    <td>q</td>
+    <td>Fechar a janela, não salva as alterações feitas</td>
   </tr>
 </table>

@@ -5,4 +5,4 @@
 2. Alterar arquivos;
 3. Salvar alterações
 
-** O arquivo Documentacao.txt serve para instrui-lo sobre os atalhos **
+** O arquivo Documentacao.txt serve para instrui-lo sobre os atalhos

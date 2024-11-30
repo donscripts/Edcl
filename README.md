@@ -6,3 +6,4 @@
 3. Salvar alterações
 
 **O arquivo Documentacao.txt serve para instrui-lo sobre os atalhos**
+<span style="color: red;">Este texto será vermelho</span>

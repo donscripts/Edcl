@@ -5,10 +5,8 @@ Este código, serve para que, pelo prompt de comandos de sua preferência, você
 aberto em uma nova janela.
 
 ## Suas funções:
-<ul>
-  <li><p>Alterar um arquivo</p></li>
-  <li><p>Salvar a alteração feita</p></li>
-</ul>
+1. Alterar um arquivo
+2. Salvar a alteração feita
 
 ## Atalhos
 
@@ -36,3 +34,4 @@ aberto em uma nova janela.
 </table>
 
 Consulte **Documentacao.txt** para lembras os atalhos e a função do código.
+Concluindo, este script serve apenas para, por cli, você possa editar um arquivo de texto.
